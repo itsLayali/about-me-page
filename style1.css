@@ -1,0 +1,35 @@
+body {color: #004004; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #8bdf8f;}
+
+    header, footer { background-color: #fdf8bd;
+                     text-align: center;}
+                         
+                         img {border-radius: 50%;}
+                         
+                             #liftcolum {background-color: ffffcc;
+                                         float:left;
+                                         width:150px;
+                                         padding-top:10px}
+                                             
+                                             #Menu { margin:10px;
+                                                     width:900px;
+                                                     font-family: sans-serif;}
+                                                         
+                                                         #Menu li {display:block;
+                                                                   width:120px;
+                                                                   float:left;
+                                                                   margin-left:2px;
+                                                                   border:1px solid #000;}
+                                                                    
+                                                                     #Menu a {display:block;
+                                                                              padding:3px;
+                                                                              text-decoration:none;
+                                                                              background-color:#fff;
+                                                                              color:#004004; }
+            
+                                                                                 #Menu a:hover {background-color:#004004;
+                                                                                                color:#fff;}
+                  
+          
+          
